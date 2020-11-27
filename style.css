@@ -4,11 +4,11 @@ html {
 body {
     font-family: Calibri, Arial, sans-serif;
     color: #fff;
-    margin: 25px;
+    margin: 0 25px;
     padding: 0px;
 }
 div#info {
-    margin: 70px auto;
+    margin: 20px auto 70px auto;
     width: 350px;
 }
 a {
