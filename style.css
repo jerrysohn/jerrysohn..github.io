@@ -19,9 +19,16 @@ a:hover {
     color: #ffc05d;
     text-decoration: underline;
 }
+h1 {
+    margin-bottom: 0.3em;
+}
+h2 {
+    margin-top: 0.1em;
+}
 dt {
     font-weight: bold;
 }
 dd {
-    margin-bottom: 40px;
+    margin-bottom: 20px;
+    margin-left: 15px;
 }
