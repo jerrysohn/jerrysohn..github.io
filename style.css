@@ -1,0 +1,27 @@
+html {
+    background: #4f81bd;
+}
+body {
+    font-family: Calibri, Arial, sans-serif;
+    color: #fff;
+    margin: 25px;
+    padding: 0px;
+}
+div#info {
+    margin: 70px auto;
+    width: 350px;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    color: #ffc05d;
+    text-decoration: underline;
+}
+dt {
+    font-weight: bold;
+}
+dd {
+    margin-bottom: 40px;
+}
